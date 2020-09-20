@@ -23,6 +23,10 @@ import java.security.cert.X509Certificate;
 
 import static org.eclipse.leshan.client.object.Security.x509;
 
+/**
+ * jni学习
+ * https://www.jianshu.com/p/87ce6f565d37
+ */
 public class Test {
 
     private static LeshanClient client;
