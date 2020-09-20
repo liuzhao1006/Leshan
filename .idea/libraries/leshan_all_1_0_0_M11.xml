@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="leshan-all-1.0.0-M11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/leshan-all-1.0.0-M11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
